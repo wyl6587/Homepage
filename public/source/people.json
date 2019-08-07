@@ -398,6 +398,12 @@
             "title": "Undergraduate Student",
             "avatarUrl": "https://images.lolimay.cn/ahucv/avatars/shiqi_mei.jpg",
             "email": "lolimay@lolimay.cn"
-        }      
+        },
+        {
+            "name": "Yulong Wang",
+            "title": "Postgraduate Student",
+            "avatarUrl": "https://user-images.githubusercontent.com/45382635/62595687-e93a3780-b911-11e9-81b6-e917138306ea.jpg",
+            "email": "975579473@qq.com"
+        }
     ]
 }
